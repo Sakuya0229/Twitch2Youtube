@@ -19,9 +19,9 @@ download exe file from google drive
 5. 程式會創建一個download資料夾，當前影片會在裡面下載與上傳，上船完後會自動刪除。  
 6. 程式會創建一個***local_highlights_links.txt***檔，用於紀錄尚未上傳的影片Url。
 ## Note
-You can't use python file to run this program since there's no ***client_secrets.json*** file which is necessary for youtube login.    
+1. You can't use python file to run this program since there's no ***client_secrets.json*** file which is necessary for youtube login.    
 If you want to run it with python, you can contact me or [make a ***client_secrets.json*** file(google console youtube data api) by yourself.](https://console.cloud.google.com/)    
-If progaram terminated midway, you can just run the program again but you need to type same limit time.
+2. If progaram terminated midway, you can just run the program again but you need to type same limit time.
 ---
-因為未上傳***client_secrets.json***檔，所以python檔無法直接執行，需要執行python檔的話請連絡我或[使用google console建立youtube data api.](https://console.cloud.google.com/)    
-如果程式中途終止，可以重先執行程式，但請輸入一樣的影片長度值。
+1. 因為未上傳***client_secrets.json***檔，所以python檔無法直接執行，需要執行python檔的話請連絡我或[使用google console建立youtube data api.](https://console.cloud.google.com/)    
+2. 如果程式中途終止，可以重先執行程式，但請輸入一樣的影片長度值。
