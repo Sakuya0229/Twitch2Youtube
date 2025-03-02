@@ -17,7 +17,7 @@ download exe file from google drive
 4. 選擇影片最短長度，小於時間內的影片不會下載與上傳。(可用於過濾CLIP與精華片段)  
 5. 程式會創建一個download資料夾，當前影片會在裡面下載與上傳，上船完後會自動刪除。  
 6. 程式會創建一個***local_highlights_links.txt***檔，用於紀錄尚未上傳的影片Url。  
-## Note
+## Note  
 You can't use python file to run this program since there's no ***client_secrets.json*** file which is necessary for youtube login.
 If you want to run it with python, you can contact me or [make a ***client_secrets.json*** file(google console youtube data api) by yourself.]<https://console.cloud.google.com/>    
 If progaram terminated midway, you can just run the program again but you need to type same limit time.  
