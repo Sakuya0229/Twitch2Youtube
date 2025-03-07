@@ -25,3 +25,13 @@ If you want to run it with python, you can contact me or [make a ***client_secre
 ---
 1. 因為未上傳***client_secrets.json***檔，所以python檔無法直接執行，需要執行python檔的話請連絡我或[使用google console建立youtube data api.](https://console.cloud.google.com/)    
 2. 如果程式中途終止，可以重先執行程式，但請輸入一樣的影片長度值。
+
+---
+#Version2
+## Usage
+---
+1. Add Gui, you can enter channel name, min_duration, choose upload in private/public easily in Gui.
+2. You can choose what vidoeos you want to download/upload in video list now, and only the video which ***min_duration < video's duration < 12 hours*** will show on video list.
+---
+1. 新增了圖形化介面，可以在介面輸入twitch名稱、影片最短長度、選擇上傳為公開或私人。
+2. 現在可以在影片清單選擇要上傳哪些影片，在影片清單會出現的影片為: ***最小影片時間 < 該影片時間 < 12小時*** 。
