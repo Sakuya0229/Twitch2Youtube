@@ -27,7 +27,7 @@ If you want to run it with python, you can contact me or [make a ***client_secre
 2. 如果程式中途終止，可以重先執行程式，但請輸入一樣的影片長度值。
 
 ---
-#Version2
+# Version2
 ## Usage
 ---
 1. Add Gui, you can enter channel name, min_duration, choose upload in private/public easily in Gui.
