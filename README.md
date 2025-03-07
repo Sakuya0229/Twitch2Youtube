@@ -1,5 +1,5 @@
 # Twitch2Youtube
-This program can download twitch hightlight and upload to youtube one by one automatically.
+This program can download twitch highlight and upload to youtube one by one automatically.
 ## Installation
 download exe file from google drive
 <https://drive.google.com/file/d/1hTnu_yNNi3DkbRzG7L-qbI41xY9kBpjK/view?usp=drive_link>
